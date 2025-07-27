@@ -66,5 +66,5 @@ These steps can improve **retention** and stabilize **NRR**, supporting long-ter
 
 ## 📬 Contact
 
-Project by Dmytro Petiagin 
-LinkedIn: [linkedin.com/in/petiagin]  
+ Project by Dmytro Petiagin 
+ LinkedIn: [linkedin.com/in/petiagin]  
