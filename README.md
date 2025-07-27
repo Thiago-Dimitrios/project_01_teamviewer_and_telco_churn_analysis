@@ -1,13 +1,12 @@
 # 📈 TeamViewer Churn and Retention Analysis
 
-This project analyzes **TeamViewer’s financial and retention performance** using publicly available KPIs from 2022–2024.  
-It also includes a real **Telco churn dataset** as an example of **effective customer retention practices**.
+This project analyzes **TeamViewer’s financial and retention performance** using year reports from 2022–2024.  It also includes a **Telco churn dataset** as an example of **effective customer retention practices**. The Telco dataset is available on Kaggle and was taken as a reference. 
 
 ---
 
 ## 🔍 Objective
 
-- Understand TeamViewer’s current growth strategy
+- Investigate TeamViewer’s current growth strategy
 - Identify signs of churn or retention issues
 - Explore actionable improvements using Telco example
 
@@ -22,7 +21,7 @@ It also includes a real **Telco churn dataset** as an example of **effective cus
 - **NRR (Net Revenue Retention)**: Decreasing → signals limited upsell/retention  
 - **Churn Trend**: Unstable → acquisition-focused growth
 
-📌 *Conclusion*: TeamViewer relies heavily on **new client acquisition**, not customer longevity.
+📌 *Conclusion*: TeamViewer relies heavily on the acquisition of new clients, not on the obvious clients’ loyalty.
 
 ---
 
@@ -39,7 +38,7 @@ It also includes a real **Telco churn dataset** as an example of **effective cus
 
 ## ✅ Recommendations
 
-Based on Telco best practices, TeamViewer could:
+To reduce churn rate, TeamViewer should take the next steps:
 
 1. Introduce **long-term licensing options**
 2. Encourage **auto-renewable payment methods**
@@ -54,19 +53,18 @@ These steps can improve **retention** and stabilize **NRR**, supporting long-ter
 
 - Power BI – visualization  
 - Excel – data formatting  
-- GitHub – project sharing
 
 ---
 
 ## 📁 Structure
 
-- `/TeamViewer_Visuals`: KPI-based charts  
-- `/Telco_Reference`: Churn insights  
-- `/Documentation`: Supporting notes and project files
+- `/data`: Reports and tables containing data about TeamViewer and Telco  
+- `/clean_data`: Extracted KPIs from “data” sources
+- `/charts`: KPI-based charts  
 
 ---
 
 ## 📬 Contact
 
-Project by [Dmytro Petiagin]  
-LinkedIn: [https://www.linkedin.com/in/petiagin]  
+Project by Dmytro Petiagin 
+LinkedIn: [linkedin.com/in/petiagin]  
